@@ -74,7 +74,7 @@ export default function QuienesSomos() {
 
             <div className="relative z-10 rounded-4xl overflow-hidden shadow-pink-lg" style={{ aspectRatio: "4/5" }}>
               <Image
-                src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=800&h=1000&q=85&auto=format&fit=crop&crop=faces,top"
+                src="https://images.unsplash.com/photo-1564498659566-cc4eccb7d6bb?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="Andrea, fundadora de Andrea's Bakery"
                 fill
                 className="object-cover object-top"
